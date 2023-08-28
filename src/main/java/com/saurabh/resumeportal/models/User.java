@@ -1,4 +1,4 @@
-package com.saurabh.resumeportal.model;
+package com.saurabh.resumeportal.models;
 
 import javax.persistence.*;
 

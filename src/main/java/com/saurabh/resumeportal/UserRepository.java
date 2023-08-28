@@ -1,6 +1,6 @@
 package com.saurabh.resumeportal;
 
-import com.saurabh.resumeportal.model.User;
+import com.saurabh.resumeportal.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
